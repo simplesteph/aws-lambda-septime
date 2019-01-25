@@ -21,7 +21,7 @@ provider:
   name: aws
   runtime: python3.6
   region: eu-west-3
-  profile: stephane-perso
+  profile: stephane-perso # probably edit out the profile to your matching AWS profile
 
 functions:
   septime:
