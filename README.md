@@ -1,6 +1,6 @@
 # AWS Lambda Septime
 
-See blog at: TODO
+See blog at: https://medium.com/@stephane.maarek/how-i-used-aws-lambda-to-hack-my-way-into-eating-at-septime-41c7dcd8f861
 
 # Running
 
